@@ -1,0 +1,31 @@
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large; 
+   color: #fff;
+  background-color: #47c9af;
+  border-color: #47c9af;
+}
+
+.panel-primary > .panel-heading {
+  color: #fff;
+  background-color: #47c9af;
+  border-color: #47c9af;
+}
+.panel-primary{
+  border-color: #47c9af;
+  margin-top: 5px;
+
+}
+.btn-primary {
+  color: #fff;
+  background-color: #47c9af;
+  border-color: #47c9af;
+}
+
+a {
+    color: #47c9af;
+    text-decoration: none;
+}
